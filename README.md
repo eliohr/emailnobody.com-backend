@@ -1,6 +1,6 @@
 # email nobody
 
-Using Spring Boot for a simple relational database backend. Works with a Vite + React frontend. Hosted on AWS.
+Using Spring Boot for a simple relational database backend. Works with a Vite + React frontend.
 
 "Sending" an email sends a POST request as described in the API doc and resets the fields.
 "Receiving" an email sends a GET request as described in the API doc for an email with a random id and displays the info received.
